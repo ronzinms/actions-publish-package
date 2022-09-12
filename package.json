@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ronzinms/actions-publish-package/issues"
   },
-  "homepage": "https://github.com/ronzinms/actions-publish-package#readme"
+  "homepage": "https://github.com/ronzinms/actions-publish-package#readme",
+  "publishConfig": {
+   "@ronzinms:registry": "https://npm.pkg.github.com"
+  }
 }
